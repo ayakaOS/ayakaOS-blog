@@ -24,10 +24,6 @@
 	],
 	"artImages": [
 		{
-			"id": "cat",
-			"url": "/images/art/cat.png"
-		},
-		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
@@ -37,9 +33,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "77d71eb5a7fc265a",
+			"url": "/images/background/77d71eb5a7fc265a.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "77d71eb5a7fc265a",
 	"socialButtons": [
 		{
 			"id": "github",
