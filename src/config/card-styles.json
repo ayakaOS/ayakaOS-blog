@@ -33,11 +33,11 @@
 		"enabled": true
 	},
 	"musicCard": {
-		"width": 326,
-		"height": 57,
+		"width": 321,
+		"height": 58,
 		"offset": 120,
 		"order": 6,
-		"offsetX": -550,
+		"offsetX": -546,
 		"offsetY": 31,
 		"enabled": true
 	},
@@ -58,7 +58,7 @@
 		"enabled": false
 	},
 	"articleCard": {
-		"width": 331,
+		"width": 327,
 		"height": 171,
 		"order": 8,
 		"offsetX": -551,
@@ -69,8 +69,8 @@
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 474,
-		"offsetY": -383,
+		"offsetX": 463,
+		"offsetY": -378,
 		"enabled": true
 	},
 	"navCard": {
