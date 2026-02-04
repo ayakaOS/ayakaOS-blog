@@ -5,7 +5,7 @@
 		"username": "ayakaOS"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
+		"colorBrand": "#B7A5E7",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#FCC841",
@@ -15,12 +15,14 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#85AB9A",
+		"#9F1B7E",
+		"#AA6032",
+		"#9591C3",
+		"#53EE17",
+		"#C1F093",
+		"#A215DB",
+		"#6069DC"
 	],
 	"artImages": [
 		{
