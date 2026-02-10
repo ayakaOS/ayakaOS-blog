@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "ayakaOS's Blog",
-		"description": "Hello world！这里是ayakaOS‘s Blog,不定时更新。",
+		"title": "ayakaOS Blog",
+		"description": "Hello world！这里是ayakaOS Blog,不定时更新。",
 		"username": "ayakaOS"
 	},
 	"theme": {
@@ -60,11 +60,11 @@
 			"order": 2
 		},
 		{
-			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
-			"label": "",
-			"order": 1
+			"id": "button-1770703946948",
+			"type": "link",
+			"value": "http://ayakaos.ccwu.cc/",
+			"label": "EN Site",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
